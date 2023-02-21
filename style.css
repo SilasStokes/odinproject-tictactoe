@@ -42,6 +42,9 @@ main > div {
     background-color: rgb(111, 110, 110);
 }
 
+.winner {
+    background-color: gold;
+}
 /* main > div {
     background-color: aliceblue;
     border: 2px solid black;
